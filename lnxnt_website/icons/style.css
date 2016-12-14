@@ -1,0 +1,16 @@
+address {display: none}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td, th {
+  padding: 4px;
+  border: 1px solid #CCC;
+}
+tr {
+  background-color: #F2F2F2;
+}
+th {
+  background: #ddd;
+}
+
